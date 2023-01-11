@@ -1,4 +1,6 @@
 import astropy.units as u
+import numpy as np
+import pandas as pd
 from astropy.coordinates.sky_coordinate import SkyCoord
 from astropy.units import Quantity
 from astroquery.gaia import Gaia
