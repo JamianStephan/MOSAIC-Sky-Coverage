@@ -1,1 +1,0 @@
-# MOSAIC-Sky-Coverage
